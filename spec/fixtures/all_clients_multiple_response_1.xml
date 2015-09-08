@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<response>
+  <Auth status = "0"></Auth>
+  <Read status = "0">
+    <Customer>
+      <id>1</id>
+      <name>Pivotal Internal</name>
+      <externalid>191</externalid>
+    </Customer>
+    <Customer>
+      <id>4</id>
+      <name>Capital One, National Association</name>
+      <externalid>192</externalid>
+    </Customer>
+    <Customer>
+      <id>5</id>
+      <name>Classified Ventures, L.L.C.</name>
+      <externalid>001U000000aRHdfIAG</externalid>
+    </Customer>
+    <Customer>
+      <id>6</id>
+      <name>Humana</name>
+      <externalid>001U000000aRReVIAW</externalid>
+    </Customer>
+    <Customer>
+      <id>7</id>
+      <name>Big Company</name>
+      <externalid>001U000000aRReVXYZ</externalid>
+    </Customer>
+  </Read>
+</response>
